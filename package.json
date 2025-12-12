@@ -1,0 +1,16 @@
+{
+  "name": "webrtc-signal",
+  "version": "1.0.0",
+  "description": "Servidor de señalización WebRTC con Socket.IO",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": ["webrtc", "socket.io", "signal"],
+  "author": "Luis Bueno",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18",
+    "socket.io": "^4.7"
+  }
+}
